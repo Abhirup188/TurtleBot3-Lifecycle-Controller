@@ -1,0 +1,29 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/abhirup-chakraborty/ros2_ws/build/turtlesim_project",
+        "/home/abhirup-chakraborty/ros2_ws/install/turtlesim_project/lib/python3.12/site-packages",
+        "/home/abhirup-chakraborty/ros2_ws/build/actions_py",
+        "/home/abhirup-chakraborty/ros2_ws/install/actions_py/lib/python3.12/site-packages",
+        "/home/abhirup-chakraborty/ros2_ws/install/my_robot_interfaces/lib/python3.12/site-packages",
+        "/home/abhirup-chakraborty/ros2_ws/build/lifecycle_py",
+        "/home/abhirup-chakraborty/ros2_ws/install/lifecycle_py/lib/python3.12/site-packages",
+        "/home/abhirup-chakraborty/ros2_ws/build/executors_py",
+        "/home/abhirup-chakraborty/ros2_ws/install/executors_py/lib/python3.12/site-packages",
+        "/home/abhirup-chakraborty/ros2_ws/install/components_py/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/abhirup-chakraborty/ros2_ws/build/turtlesim_project",
+        "/home/abhirup-chakraborty/ros2_ws/install/turtlesim_project/lib/python3.12/site-packages",
+        "/home/abhirup-chakraborty/ros2_ws/build/actions_py",
+        "/home/abhirup-chakraborty/ros2_ws/install/actions_py/lib/python3.12/site-packages",
+        "/home/abhirup-chakraborty/ros2_ws/install/my_robot_interfaces/lib/python3.12/site-packages",
+        "/home/abhirup-chakraborty/ros2_ws/build/lifecycle_py",
+        "/home/abhirup-chakraborty/ros2_ws/install/lifecycle_py/lib/python3.12/site-packages",
+        "/home/abhirup-chakraborty/ros2_ws/build/executors_py",
+        "/home/abhirup-chakraborty/ros2_ws/install/executors_py/lib/python3.12/site-packages",
+        "/home/abhirup-chakraborty/ros2_ws/install/components_py/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "ROS2.distro": "jazzy"
+}
